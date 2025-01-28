@@ -8,12 +8,13 @@ An intuitive and interactive urban management platform designed to empower city 
 
 ### Snapshots  
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/f68d81fa-c08d-478d-acf8-400fc86290b1" alt="Snapshot 1" width="300" />
-  <img src="https://github.com/user-attachments/assets/e5d8306a-b409-417a-990d-b465139c0bb8" alt="Snapshot 2" width="300" />
-  <img src="https://github.com/user-attachments/assets/4ef0dedd-9cff-4949-a869-5bb96eee64c5" alt="Snapshot 3" width="300" />
-  <img src="https://github.com/user-attachments/assets/db6c9f40-6ea1-4a2d-bd6a-ff28d4b7881a" alt="Snapshot 4" width="300" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f68d81fa-c08d-478d-acf8-400fc86290b1" alt="Snapshot 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e5d8306a-b409-417a-990d-b465139c0bb8" alt="Snapshot 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4ef0dedd-9cff-4949-a869-5bb96eee64c5" alt="Snapshot 3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/db6c9f40-6ea1-4a2d-bd6a-ff28d4b7881a" alt="Snapshot 4" width="300"/>
 </div>
+
 
 ---
 
